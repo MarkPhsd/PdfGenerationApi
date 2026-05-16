@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfGenerationApi", "PdfGenerationApi.csproj", "{923514B2-5745-8041-7889-3CFE1D017B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923514B2-5745-8041-7889-3CFE1D017B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923514B2-5745-8041-7889-3CFE1D017B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923514B2-5745-8041-7889-3CFE1D017B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923514B2-5745-8041-7889-3CFE1D017B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C5556F1-C4D3-4DAB-9259-66EB297F80DD}
+	EndGlobalSection
+EndGlobal
